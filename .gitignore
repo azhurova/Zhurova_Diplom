@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+pyvenv.cfg
+settings.txt
+Lib
+Scripts
+share
+.idea
