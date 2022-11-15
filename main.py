@@ -7,8 +7,7 @@ from pprint import pprint
 DEFAULT_PHOTO_COUNT = 5
 
 VK_APP_ID = '51467773'
-VK_APP_TOKEN = 'vk1.a.C53YcRT3uISzXZFLwpDrh7yucni3Tq5oZcyl-3AeieQkSjcQGsP6577rrscJ_0jMBEJbBc2q27xeyKgdVSvxSh8T_Vu7TVQNAme9zssPtEWz_rsx8XD5n7AeXHzw-w-KsAbb6nWVYsmz_KlvHw6EyNWQX55V5gBsjWdWUPoQhujrvOkzyoSXyQue2rj0c-DyhCrI2X9UsPPK7OsQ8Bo1OQ'
-
+VK_APP_TOKEN = 
 
 class Vk:
 
